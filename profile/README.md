@@ -1,6 +1,6 @@
 # Architectures for Resilient Computing Hardware (ARCH) Research Lab
 
-![ARCH](images/wafer.png)
+![ARCH](../images/wafer.png)
 
 Welcome to the **ARCH Research Lab** GitHub Page!  
 We design, analyze, and validate **resilient, secure, and energy-efficient computing hardware**. Our mission is to develop the architectural foundations and hardware techniques needed for dependable computing in the face of faults, attacks, variability, and emerging technology challenges.
